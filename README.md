@@ -26,7 +26,7 @@ You can find more about these projects and others on my [LinkedIn](https://www.l
 Let's collaborate and explore the possibilities together! You can connect with me on:
 - 📧 Email: hammadkhanmarral@gmail.com
 - 💼 LinkedIn: [Hamad Marral](https://www.linkedin.com/in/hamad-marral-5a15b0250//)
-- 📸 Instagram:[Hamad Marral] (https://www.instagram.com/hamad_marral/)
+- 📸 Instagram:[Hamad Marral](https://www.instagram.com/hamad_marral/)
 
 Feel free to reach out if you share similar interests or want to discuss AI,Computer vision forex trading, web development, or any other exciting tech topics. I'm always eager to connect with like-minded professionals.
 
