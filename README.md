@@ -1,14 +1,14 @@
 <img align="center" height="400" src="https://external-preview.redd.it/O-jDZuc5czZ4vgN5nSTv8gFOHeg06SFUVRmSHL8AUgc.gif?width=640&crop=smart&format=png8&s=4837cb40e1c8e346d1beb13ce6c4ba149d11bc5b"  />
 <h1 align="center">Hi 👋, I'm Hammad Marral</h1>
 <h3 align="center">A passionate AI Engineer from Pakistan</h3>
-<img align = "right" alt = "lazy coding " width = "400" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBreDJqdXd1OTB2MTMwcDg1aDZlNXRuYjEycWdycTZucG9ramNibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" >
+<img align = "right" alt = "lazy coding " width = "400" src ="https://giphy.com/gifs/DrWqBdfN09eK1cBSJa" >
 
 ###
-- 🌱 I’m currently learning Generative AI **NLP , Computer vision**
+- 🌱 I’m currently learning Generative AI **NLP , Computer vision ,Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamad-marral](https://github.com/hamad-marral)
 
-- 💬 Ask me about **AI**
+- 💬 Ask me about **AI**.
 
 - 📫 How to reach me **hammadkhanmarral@gmail.com**
 
@@ -17,11 +17,10 @@
 - <div align="left">
   <h3 align="left">🔥  Social :</h3>
  <p align="left">
-<a href="https://twitter.com/sharjeeljaved95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharjeeljaved95" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sharjeeyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharjeeyl" height="30" width="40" /></a>
-<a href="https://fb.com/sharjeeldd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharjeeldd" height="30" width="40" /></a>
-<a href="https://instagram.com/sharjeeyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharjeeyl" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@sharjeeljaved95/featured)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sharjeel javed" height="30" width="40" /></a>
+<a href="https://twitter.com/hamad_marral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharjeeljaved95" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hamad-marral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharjeeyl" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hamadmarral.fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharjeeldd" height="30" width="40" /></a>
+<a href="[https://instagram.com/sharjeeyl](https://www.instagram.com/hamad_marral)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharjeeyl" height="30" width="40" /></a>
 </p>
 </div>
 
