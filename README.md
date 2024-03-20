@@ -1,4 +1,4 @@
-<img align="center" height="400" src="https://external-preview.redd.it/O-jDZuc5czZ4vgN5nSTv8gFOHeg06SFUVRmSHL8AUgc.gif?width=640&crop=smart&format=png8&s=4837cb40e1c8e346d1beb13ce6c4ba149d11bc5b"  />
+<img align="center" height="400" src="https://i.giphy.com/DrWqBdfN09eK1cBSJa.webp"  />
 <h1 align="center">Hi 👋, I'm Hammad Marral</h1>
 <h3 align="center">A passionate AI Engineer from Pakistan</h3>
 <img align = "right" alt = "lazy coding " width = "400" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ5dXc5aGp1NWF3aGxiYnJwMHdpajIzOGxvb3A0dHVndXJpbmY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DrWqBdfN09eK1cBSJa/giphy-downsized-large.gif" >
