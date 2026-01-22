@@ -1,49 +1,59 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzc5dm4xZW9waWN2aTllaGhqaHh3Mjgxcjc1dnlxdnliazB4Z25qYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" width="600" alt="AI-Coding-Animation" />
+  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="400" alt="AI Engineering Animation" />
 
-  <h1 align="center">Hi 👋, I'm Hammad Marral</h1>
-  <h3 align="center">A passionate AI Engineer from Pakistan 🇵🇰</h3>
+  <h1>Hi 👋, I'm Hammad Marral</h1>
+  <p><strong>AI Engineer | Computer Vision | Machine Learning Enthusiast</strong></p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=hamad-marral&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me:
-- 🌱 I’m currently learning **Generative AI, Computer Vision, and Machine Learning**.
-- 🚀 Exploring the power of **C#** for enterprise applications.
-- 👨‍💻 All of my projects are available at [github.com/hamad-marral](https://github.com/hamad-marral).
-- 💬 Ask me about **AI, Python, or .NET**.
-- 📫 Reach me at: **hammadkhanmarral@gmail.com**
-- ⚡ Fun fact: **I am a lazy ambitious Guy**
+### 🚀 About Me
+- 🔭 **Current Focus:** Building intelligent systems with **Generative AI** and **Computer Vision**.
+- 💻 **C# & .NET:** Learning enterprise-grade development and OOP.
+- ⚡ **Fun Fact:** I am a lazy ambitious Guy — I find the most efficient (and shortest) way to solve complex problems!
+- 📫 **Contact:** [hammadkhanmarral@gmail.com](mailto:hammadkhanmarral@gmail.com)
 
 ---
 
-### 🔥 Socials:
+### 🛠 Tech Stack
 <p align="left">
-<a href="https://twitter.com/hamad_marral" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hamad-marral" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hamadmarral.fb" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hamad_marral" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ---
 
-### 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### 🔥 Socials
+<p align="left">
+<a href="https://linkedin.com/in/hamad-marral" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" height="25" /></a>
+<a href="https://twitter.com/hamad_marral" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter" height="25" /></a>
+<a href="https://instagram.com/hamad_marral" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="instagram" height="25" /></a>
+</p>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hamad-marral&theme=dark&show_icons=true&hide_border=false" width="400" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamad-marral&theme=dark" width="400" />
-</p>
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamad-marral&theme=dark&show_icons=true&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamad-marral&theme=dark&hide_border=false" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamad-marral&theme=dark&layout=compact&hide_border=false" width="350" />
+</div>
+
+---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamad-marral&theme=dark&layout=compact" width="400" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
