@@ -1,4 +1,4 @@
-<img align="center" height="400" src="[https://i.giphy.com/DrWqBdfN09eK1cBSJa.webp](https://pin.it/1e7OI78tQ)"  />
+<img align="center" height="400" src="[[https://i.giphy.com/DrWqBdfN09eK1cBSJa.webp](https://pin.it/1e7OI78tQ)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzc5dm4xZW9waWN2aTllaGhqaHh3Mjgxcjc1dnlxdnliazB4Z25qYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)"  />
 <h1 align="center">Hi 👋, I'm Hammad Marral</h1>
 <h3 align="center">A passionate AI Engineer from Pakistan</h3>
 <img align = "centre" alt = "lazy coding " width = "400" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ5dXc5aGp1NWF3aGxiYnJwMHdpajIzOGxvb3A0dHVndXJpbmY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DrWqBdfN09eK1cBSJa/giphy-downsized-large.gif" >
