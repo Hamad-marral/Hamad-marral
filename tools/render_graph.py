@@ -111,9 +111,9 @@ def render(data):
     stats_y = legend_y + LEGEND_H
     busiest = stats.get("busiest_day") or "—"
     stats_text = (
-        f'{stats.get("total", 0)} contributions this year &middot; '
-        f'current streak {stats.get("current_streak", 0)}d &middot; '
-        f'longest {stats.get("longest_streak", 0)}d &middot; '
+        f'{stats.get("total", 0)} contributions this year &#183; '
+        f'current streak {stats.get("current_streak", 0)}d &#183; '
+        f'longest {stats.get("longest_streak", 0)}d &#183; '
         f'busiest day {busiest}'
     )
     svg_parts.append(

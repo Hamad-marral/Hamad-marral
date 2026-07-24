@@ -378,5 +378,5 @@
 <rect x="106" y="142" width="11" height="11" rx="2" fill="#4dabf7"/>
 <rect x="120" y="142" width="11" height="11" rx="2" fill="#a5d8ff"/>
 <text x="140" y="151" fill="#5c6b8a" font-size="11">more</text>
-<text x="30" y="166" fill="#a5d8ff" font-size="12">37 contributions this year &middot; current streak 0d &middot; longest 2d &middot; busiest day Thursday</text>
+<text x="30" y="166" fill="#a5d8ff" font-size="12">37 contributions this year &#183; current streak 0d &#183; longest 2d &#183; busiest day Thursday</text>
 </svg>
