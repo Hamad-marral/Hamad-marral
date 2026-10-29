@@ -1839,12 +1839,17 @@
     {
       "date": "2026-10-28",
       "level": 1,
-      "count": 1
+      "count": 2
+    },
+    {
+      "date": "2026-10-29",
+      "level": 0,
+      "count": 0
     }
   ],
   "stats": {
-    "total": 140,
-    "current_streak": 97,
+    "total": 141,
+    "current_streak": 0,
     "longest_streak": 97,
     "busiest_day": "Friday"
   }
